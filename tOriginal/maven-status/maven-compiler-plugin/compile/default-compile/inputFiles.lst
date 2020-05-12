@@ -1,0 +1,14 @@
+/usr/src/app/src/main/java/com/khoubyari/example/dao/jpa/HotelRepository.java
+/usr/src/app/src/main/java/com/khoubyari/example/Application.java
+/usr/src/app/src/main/java/com/khoubyari/example/domain/Hotel.java
+/usr/src/app/src/main/java/com/khoubyari/example/service/HotelService.java
+/usr/src/app/src/main/java/com/khoubyari/example/service/HotelServiceHealth.java
+/usr/src/app/src/main/java/com/khoubyari/example/service/HotelServiceEvent.java
+/usr/src/app/src/main/java/com/khoubyari/example/service/ServiceProperties.java
+/usr/src/app/src/main/java/com/khoubyari/example/api/rest/HotelController.java
+/usr/src/app/src/main/java/com/khoubyari/example/domain/RestErrorInfo.java
+/usr/src/app/src/main/java/com/khoubyari/example/exception/DataFormatException.java
+/usr/src/app/src/main/java/com/khoubyari/example/api/rest/AbstractRestHandler.java
+/usr/src/app/src/main/java/com/khoubyari/example/exception/ResourceNotFoundException.java
+/usr/src/app/src/main/java/com/khoubyari/example/api/rest/docs/SwaggerConfig.java
+/usr/src/app/src/main/java/com/khoubyari/example/RestControllerAspect.java
