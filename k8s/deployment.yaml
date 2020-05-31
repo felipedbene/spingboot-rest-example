@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: "springboot-deployment"
+spec:
+  selector:
+    matchLabels:
+      app: "springboot"
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: "springboot"
+    spec:
+      containers:
+      - image: fdebene/spingboot-rest
+        imagePullPolicy: Always
+        name: "springboot"
+        ports:
+        - containerPort: 8090
