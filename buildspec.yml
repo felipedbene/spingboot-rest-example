@@ -19,4 +19,5 @@ artifacts:
     - target/spring-boot-rest-0.3.0.war
     - buildspec-container.yml
     - Dockerfile
+    - imagedefinitions.json
   discard-paths: yes

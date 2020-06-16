@@ -83,7 +83,7 @@ public class Hotel {
         return "Hotel {" +
                 "id=" + id +
                 ", name='" + name + '\'' +
-                ", description='" + description + '\'' +
+                ", descrip='" + description + '\'' +
                 ", city='" + city + '\'' +
                 ", rating=" + rating +
                 '}';
