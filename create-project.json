@@ -1,5 +1,5 @@
 {
-  "name": "devops-webapp-project",
+  "name": "springboot-project",
   "source": {
     "type": "GITHUB",
     "location": "https://github.com/felipedbene/spingboot-rest-example.git"
