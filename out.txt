@@ -1,0 +1,2 @@
+YOUR-BuildRole-ARN: arn:aws:iam::062241367565:role/DevopsWorkshop-roles-BuildTrustRole-1TKZMS37QTEHQ
+YOUR-S3-OUTPUT-BUCKET-NAME: cicd-workshop-us-east-1-062241367565
