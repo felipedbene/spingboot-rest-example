@@ -16,5 +16,5 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/spring-boot-rest-example.war
+    - target/spring-boot-rest-0.3.0.war
   discard-paths: no
